@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/maclisowski/node-ses-example#readme",
   "dependencies": {
-    "aws-sdk": "^2.361.0",
+    "aws-sdk": "^2.1684.0",
     "dotenv": "^6.1.0"
   }
 }
